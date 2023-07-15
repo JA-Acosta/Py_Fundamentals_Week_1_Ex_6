@@ -1,0 +1,6 @@
+This is the sixth program derived from 100 program suggested by ChatGPT for a 4 week python course. Since I already have programming expertise, I'll be combining the following three prompts into a single program. My main goal is to pay close attention to pythonic syntax, creating/updating git repositories, and developing good commenting habits. Upon completing this program, I'll push it to github and request feedback from my peers.
+
+The following 3 ChatGPT prompts were used:
+21. Implement a program that counts the occurrences of each word in a given sentence.
+22. Implement a program that prints a triangle pattern using asterisks.
+23. Determine if a given string is an anagram of another string.
